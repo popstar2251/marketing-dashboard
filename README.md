@@ -183,11 +183,6 @@ The export excludes environment files, databases, build output, dependency direc
 
 Use [GitHub Issues](https://github.com/builderz-labs/marketing-dashboard/issues) for reproducible bugs and scoped feature requests. Security reports must not be filed publicly.
 
-## Built by Builderz
-
-[Builderz](https://builderz.dev) builds agent infrastructure, trading systems, and Solana applications.
-
-Maintained by [Nyk](https://nyk.dev). [Sponsor ongoing open-source maintenance](https://github.com/sponsors/0xNyk) or follow [@nykdotdev](https://x.com/nykdotdev).
 
 ## License
 
